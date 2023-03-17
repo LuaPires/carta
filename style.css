@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#bordaCarta {
+    border: 3px dashed rgb(243, 159, 2);
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgb(255, 214, 164);
+}
+
+.padrao-msg {
+    margin-left: 8px;
+    background-color: #92943cd8;
+}
+
+.padrao-msg-fim {
+    width: 250px;
+    padding: 8px;
+}
+
+.mensagem {
+    margin: 45px 8px 30px;
+    background-color: #92943cd8;
+    padding: 40px 60px;
+    text-align: center;
+}
+
+.div-topo{
+    background-color: #92943cd8; 
+    display: inline-block; 
+    padding: 1px;
+    margin-top: 20px;
+}
+
+.center{
+    text-align: center; 
+}
+
+.margin-final{
+    margin-top: 30px;
+
+}
